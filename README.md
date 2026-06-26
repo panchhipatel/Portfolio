@@ -17,7 +17,7 @@ Featured projects include:
 
 I'm continuously learning and working on real-world AI and data-driven solutions.
 
-🔗 **Portfolio:** https://panchhipatel.github.io/
+🔗 **Portfolio:** https://panchhipatel.github.io/Portfolio/
 
 I would appreciate your feedback and suggestions. Thank you for visiting!
 
